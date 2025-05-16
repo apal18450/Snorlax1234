@@ -1,2 +1,0 @@
-def adityapal(a, b):
-    return a + b
